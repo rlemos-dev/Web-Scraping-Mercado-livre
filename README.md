@@ -14,9 +14,9 @@ Pandas
 
 ⚙️ Como executar o projeto
 Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/rlemos-dev/Web-Scraping-Mercado-livre.git
 Acesse a pasta do projeto:
-cd seu-repositorio
+cd Web-Scraping-Mercado-livre
 Instale as dependências:
 pip install -r requirements.txt
 Execute o projeto:
